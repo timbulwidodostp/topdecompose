@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'topdecompose': Decomposing (Decompose) the Growth of an average variable in a top percentile Top Wealth Shares Use topdecompose With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f topdecompose.ado
+f topdecompose.sthlp
